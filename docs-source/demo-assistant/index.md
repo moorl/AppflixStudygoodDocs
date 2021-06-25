@@ -10,7 +10,7 @@ Diese müssen jedoch wie folgt installiert werden.
 Der Demo Assistent ist im Backend ist unter 
 Einstellungen -> Studygood -> Demo Assistent zu finden.
 
-![dewa-demo-assistant-uebersicht](img/dewa-demo-assistant.png)
+![](img/demo-admin-01.jpg)
 
 Nach dem Öffnenen der Oberfläche steht unter "Typ" eine Auswahl von Paketen zur Verfügung.
 In der Zukunft sollen auch zusätzliche Demopakete zur Auswahl stehen. Diese können einfach
@@ -21,8 +21,7 @@ Hier musst Du auswählen, wohin die Demodaten installiert werden sollen.
 
 Nun einfach auf "Installieren" drücken - die Demodaten werden automatisch installiert.
 
-
-![dewa-demo-assistant-installation](img/dewa-demo-assistant-installation.png)
+![](img/demo-admin-02.jpg)
 
 ###HINWEIS:
 Sollten bereits andere Daten installiert sein, müssen diese vorher entfernt werden,

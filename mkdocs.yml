@@ -24,6 +24,7 @@ nav:
         - Lektionen: 'lesson/index.md'
         - Prüfungen: 'test/index.md'
         - Board: 'board/index.md'
+        - Tutor: 'tutor/index.md'
     - Theme Konfiguration: 'theme/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix.html'
     - Kontakt: 'mailto:info@app-flix.de'
