@@ -1,20 +1,19 @@
 # Impressum
 Dieses Impressum wurde von weiteren von uns betriebenen Seiten verlinkt und gilt deshalb auch für folgende Dienste:
 
-studygood UG (haftungsbeschränkt)
+Appflix UG (haftungsbeschränkt)
 
-Friedrichstraße 15
+Salbeiweg 31
 
-33102 Paderborn
+33100 Paderborn
 
 ### Geschäftsführer
-Oliver Krimmer
+Jan-Philipp Georg
+
+Robin Humpert
 
 ### Email
-info [at] studygood [dot] de
-
-### Telefon
-0 52 51 / 2 02 09 58 (Mo.-Fr. 10:00-14:00 Uhr)
+info [at] app-flix [dot] de
 
 ### Registereintrag
 Registergericht: Amtsgericht Paderborn
@@ -25,7 +24,11 @@ Registernummer: HRB 13778
 DE321999719
 
 ### Verantwortlich für den Inhalt (gem. §55 Abs. 2 RStV)
-Oliver Krimmer, studygood UG (haftungsbeschränkt), Friedrichstraße 15, 33102 Paderborn
+Jan-Philipp Georg und
+Robin Humpert,
+Appflix UG (haftungsbeschränkt),
+Salbeiweg 31,
+33100 Paderborn
 
 Online-Streitbeilegung nach Art. 14 der EU Verordnung Nr. 524/2013 (ODR-Verordnung):
 Die EU-Kommission stellt eine benutzerfreundliche Plattform zur Online-Beilegung von verbraucherrechtlichen Streitigkeiten, die sich aus dem online Verkauf von Waren oder der online Erbringung von Dienstleistungen ergeben (OS-Plattform), bereit. Die OS-Plattform ist unter folgendem Link erreichbar: https://ec.europa.eu/consumers/odr.
