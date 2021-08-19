@@ -11,12 +11,9 @@ indem du auf "Neuen Kurs Erstellen" klickst
 
 ![](img/course-admin-02.jpg)
 
-Hier kannst Du nun einen Namen, eine Beschreibung und eine Abo-Zeit eintragen!
-Stelle die Abo-Zeit auf "0" Wenn Du Deinen Kurs auf unbegrenzte Zeit anbieten
-möchtest.
+Hier kannst Du nun einen Namen und eine Beschreibung eintragen!
 
 ![](img/course-admin-03.jpg)
-
 
 Nach dem Speichern erscheinen weitere Optionen:
 1. Kapitel - Eine Übersicht aller Kapitel in dem Kurs
@@ -25,15 +22,9 @@ Nach dem Speichern erscheinen weitere Optionen:
 4. Produkte - Trage hier die Produkte ein, die den Kurs repräsentieren
 
 ![](img/course-admin-04.jpg)
+
 ![](img/course-admin-05.jpg)
 
 Klicke auf Neu um ein Kapitel oder eine Lektion zu erstellen.
 
 ![](img/course-admin-06.jpg)
-
-Übersicht der Abonnements.
-
-Sobald Dein Kurs fertig gestellt wurde, musst Du die Laufzeiten manuell aktualisieren. Dort
-werden die Teil-Laufzeiten der Kapitel und die Gesamt-Laufzeit des Kurses gespeichert.
-
-Du kannst nun Deinen Kurs aktivieren und im Frontend testen!

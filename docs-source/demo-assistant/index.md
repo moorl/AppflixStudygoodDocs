@@ -8,7 +8,12 @@ Diese müssen jedoch wie folgt installiert werden.
 ## Demo Daten installieren
 
 Der Demo Assistent ist im Backend ist unter 
+
 Einstellungen -> Studygood -> Demo Assistent zu finden.
+
+oder
+
+Einstellungen -> Plugins -> Demo Assistent zu finden.
 
 ![](img/demo-admin-01.jpg)
 
@@ -24,6 +29,7 @@ Nun einfach auf "Installieren" drücken - die Demodaten werden automatisch insta
 ![](img/demo-admin-02.jpg)
 
 ###HINWEIS:
+
 Sollten bereits andere Daten installiert sein, müssen diese vorher entfernt werden,
 da es ansonsten zu Konflikten in der Datenbank kommen kann!
 

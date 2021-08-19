@@ -1,5 +1,4 @@
-site_name: Studygood Shopware 6 App Dokumentation
-edit_uri: blob/master/docs-source/
+site_name: Studygood - Shopware 6
 theme:
     name: 'material'
 docs_dir: docs-source
@@ -13,19 +12,39 @@ extra_javascript:
     - 'extra.js'
 
 nav:
-    - Start: 'index.md'
-    - Häufig gestellte Fragen (FAQ): 'faq/index.md'
-    - Schnelleinrichtung:
-        - Installation: 'installation/index.md'
-        - Demo Daten anlegen: 'demo-assistant/index.md'
-    - Kurs Konfiguration:
-        - Kursverwaltung: 'course/index.md'
-        - Kapitel: 'chapter/index.md'
-        - Lektionen: 'lesson/index.md'
-        - Prüfungen: 'test/index.md'
-        - Board: 'board/index.md'
-        - Tutor: 'tutor/index.md'
-    - Theme Konfiguration: 'theme/index.md'
-    - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
-    - Kontakt: 'mailto:info@app-flix.de'
-    - Impressum: 'imprint/index.md'
+    - English:
+          - Start: 'index.md'
+          - Frequently asked questions (FAQ): 'faq/index-en.md'
+          - Quick setup:
+                - Installation: 'installation/index-en.md'
+                - Add demo data: 'demo-assistant/index-en.md'
+          - Course configuration:
+                - Course management: 'course/index-en.md'
+                - Chapters: 'chapter/index-en.md'
+                - Lessons: 'lesson/index-en.md'
+                - Produkt configuration: 'product/index-en.md'
+                - Exams: 'test/index.md'
+                - Tutor: 'tutor/index.md'
+                - Board: 'board/index.md'
+          - Theme configuration: 'theme/index.md'
+          - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
+          - Contact us: 'mailto:info@app-flix.de'
+          - Imprint: 'imprint/index-en.md'
+    - Deutsch:
+        - Start: 'index.md'
+        - Häufig gestellte Fragen (FAQ): 'faq/index.md'
+        - Schnelleinrichtung:
+            - Installation: 'installation/index.md'
+            - Demo Daten anlegen: 'demo-assistant/index.md'
+        - Kurs Konfiguration:
+            - Kursverwaltung: 'course/index.md'
+            - Kapitel: 'chapter/index.md'
+            - Lektionen: 'lesson/index.md'
+            - Produkt Konfiguration: 'product/index.md'
+            - Prüfungen: 'test/index.md'
+            - Tutor: 'tutor/index.md'
+            - Board: 'board/index.md'
+        - Theme Konfiguration: 'theme/index.md'
+        - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
+        - Kontakt: 'mailto:info@app-flix.de'
+        - Impressum: 'imprint/index.md'
